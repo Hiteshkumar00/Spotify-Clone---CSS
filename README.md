@@ -1,2 +1,2 @@
 # Spotify Clone
-This project created by using HTML and CSS.
+This project is created by using HTML and CSS.
